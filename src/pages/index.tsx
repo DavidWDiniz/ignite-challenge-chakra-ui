@@ -28,7 +28,7 @@ export default function Home({continents}: HomeProps) {
         direction="column"
         align="center"
       >
-        <Header/>
+        <Header isHomepage/>
         <Banner/>
         <TravelTypes/>
         <Box

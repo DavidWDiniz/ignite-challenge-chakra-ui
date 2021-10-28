@@ -4,29 +4,71 @@
       "id": 1,
       "name": "América",
       "description": "Número de países: 35",
-      "img": "https://images.unsplash.com/photo-1499462994724-775b2edaf559?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+      "img": "https://images.unsplash.com/photo-1499462994724-775b2edaf559?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+      "info": "O continente americano possui a maior extensão latitudinal do mundo, ocupando, praticamente, todas as faixas de norte a sul. Essa distribuição permite que o continente experimente todas as variações climáticas do planeta, desde as camadas mais quentes da região equatorial às zonas temperadas e camadas polares. Do mesmo modo, observam-se as mais variadas expressões de vegetação, solo e relevo.",
+      "countries": 35,
+      "languages": 34,
+      "quantity": 18
     },
     {
       "id": 2,
       "name": "Ásia",
       "description": "Número de países: 50",
-      "img": "https://images.unsplash.com/photo-1535139262971-c51845709a48?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+      "img": "https://images.unsplash.com/photo-1535139262971-c51845709a48?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+      "info": "O continente asiático possui 48 países e seis territórios, distribuídos em uma extensão de 44.580.000 km². A população do continente é estimada em 4,436 bilhões de habitantes. Esse é o continente mais populoso do planeta, com destaques para a China (1.376.048.943), Índia (1.311.050.527), Paquistão (188.924.874) e Bangladesh (160.995.642).",
+      "countries": 47,
+      "languages": 199,
+      "quantity": 27
     },
     {
       "id": 3,
       "name": "África",
       "description": "Número de países: 55",
-      "img": "https://images.unsplash.com/photo-1514482122001-9066d795fa35?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+      "img": "https://images.unsplash.com/photo-1514482122001-9066d795fa35?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+      "info": "O continente africano possui 54 países e 9 territórios. Sua extensão territorial é de 30.370.000km², e sua população é estimada em 1.216.000 milhões de habitantes. Com uma extensa distribuição latitudinal, o continente ocupa parte do hemisfério norte e parte do hemisfério sul, sendo cortado praticamente ao meio pela linha do Equador. Assim, somente os extremos norte e sul escapam da zona tropical, localizando-se na zona temperada.",
+      "countries": 54,
+      "languages": 197,
+      "quantity": 25
     },
     {
       "id": 4,
       "name": "Europa",
       "description": "Número de países: 49",
       "img": "https://images.unsplash.com/photo-1600359695469-9d9b028c0147?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1469&q=80",
+      "info": "O continente europeu é composto por 50 países e 8 territórios. Suas fronteiras foram diversas vezes alteradas, com os avanços e recuos dos impérios que o conquistaram ao longo dos séculos. Suas fronteiras são: ao norte, Mar Glacial Ártico; a noroeste, mar da Noruega; a leste, o Oceano Atlântico; ao sul, o Mar Mediterrâneo; a sudoeste, o Mar Negro; e, a noroeste, os Montes Urais.",
+      "countries": 43,
+      "languages": 72,
+      "quantity": 19,
       "cities": [
         {
           "name": "Londres",
-          "country": "Reuno unido"
+          "country": "Reuno unido",
+          "flag": "https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png",
+          "img": "https://images.unsplash.com/photo-1589657068463-ef4077ce0d10?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80"
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "flag": "https://www.countryflags.com/wp-content/uploads/france-flag-png-large.png",
+          "img": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1473&q=80"
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "flag": "https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png",
+          "img": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1096&q=80"
+        },
+        {
+          "name": "Praga",
+          "country": "República Tcheca",
+          "flag": "https://www.countryflags.com/wp-content/uploads/czech-republic-flag-png-large.png",
+          "img": "https://images.unsplash.com/photo-1564511287568-54483b52a35e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        },
+        {
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "flag": "https://www.countryflags.com/wp-content/uploads/netherlands-flag-png-large.png",
+          "img": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
         }
       ]
     },
@@ -34,7 +76,11 @@
       "id": 5,
       "name": "Oceania",
       "description": "Número de países: 14",
-      "img": "https://images.unsplash.com/photo-1608644436625-a694e690d0ac?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1528&q=80"
+      "img": "https://images.unsplash.com/photo-1608644436625-a694e690d0ac?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1528&q=80",
+      "info": "A Oceania é o menor continente do planeta, com 8. 526,000 km². Sua extensão territorial praticamente se confunde com o território da Austrália, de 7.692.000 km², ou seja, um pouco mais de 90% do continente. Assim, alguns autores classificam a Austrália como um país continental. O território restante é distribuído entre 14 micropaíses e 11 territórios.",
+      "countries": 14,
+      "languages": 38,
+      "quantity": 15
     }
   ]
 }
